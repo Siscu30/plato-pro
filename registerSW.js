@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Program%20Files/Git/plato-pro/sw.js', { scope: '/Program%20Files/Git/plato-pro/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/plato-pro/sw.js', { scope: '/plato-pro/' })})}
